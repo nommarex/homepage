@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Verified API endpoint response schema
 - Addressed feedback from self code review
 - Added type hints to helper functions
+
+## 2026-03-23
+- Pinned dependency versions for reproducibility
