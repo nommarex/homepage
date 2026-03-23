@@ -17,3 +17,6 @@ Personal development log — notes, findings, and ongoing work.
 - Wrote notes on upcoming feature design
 - Updated CI cache strategy
 - Added type hints to helper functions
+
+## 2026-03-23
+- Documented config options
